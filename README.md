@@ -20,6 +20,7 @@ In this part, you will compute a PCA from a set of images of faces, each of size
 • Visualize some of the first principal components.
 
 
+
 Part B: Fisher LDA (Fisher Linear Discriminant Analysis)
 
 Dataset: jaffe
